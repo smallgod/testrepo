@@ -14,7 +14,6 @@ public class ProductCatalogue {
 		
 		List<String> categories = new ArrayList<>();
 		categories.add("Books");
-		categories.add("Digital");
 		categories.add("Music");
 		categories.add("Movies");
 		
